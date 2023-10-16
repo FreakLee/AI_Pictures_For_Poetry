@@ -15,9 +15,9 @@
 
 # [歌](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E6%AD%8C)
 
-十里桃花 待嫁的年华\n
-凤冠的珍珠 挽进头发\n
-檀香拂过 玉镯弄轻纱\n
-空留一盏 芽色的清茶\
+十里桃花 待嫁的年华<br>
+凤冠的珍珠 挽进头发<br>
+檀香拂过 玉镯弄轻纱<br>
+空留一盏 芽色的清茶<br>
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/1.1.jpeg)
