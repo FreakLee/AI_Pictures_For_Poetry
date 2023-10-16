@@ -36,10 +36,10 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ## [曲](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E6%9B%B2)
 
-枯藤老树昏鸦
-小桥流水人家
-古道西风瘦马
-夕阳西下
-断肠人在天涯
+枯藤老树昏鸦<br>
+小桥流水人家<br>
+古道西风瘦马<br>
+夕阳西下<br>
+断肠人在天涯<br>
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%9B%B2/1.1.jpeg)
