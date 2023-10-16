@@ -1,5 +1,5 @@
 # AI_Pictures_For_Poetry
-用 Bing Image Creator、Leonardo.AI、Midjourney、Stable Diffusion等 AI 工具为优美的诗、词、歌、赋、曲生成的配图集合<br>
+用 Bing Image Creator、Leonardo.AI、Midjourney、Stable Diffusion等 AI 工具为优美的诗、词、歌、赋、曲生成的配图集<br>
 AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ## [诗](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%97)
