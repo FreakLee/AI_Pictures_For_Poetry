@@ -1,3 +1,4 @@
+
 # AI_Pictures_For_Poetry
 用 Bing Image Creator、Leonardo.AI、Midjourney、Stable Diffusion等 AI 工具为优美的诗、词、歌、赋、曲生成的配图集<br>
 AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
@@ -19,6 +20,14 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 春江潮水连海平，海上明月共潮生
 
 ![4.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/4.1.jpeg)
+
+姑苏城外寒山寺，夜半钟声到客船
+
+![5.3](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/5.3.jpeg)
+
+夜凉吹笛千山月，路暗迷人百种花
+
+![6.2](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/6.2.jpeg)
 
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
