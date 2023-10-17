@@ -40,6 +40,22 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/1.1.jpeg)
 
+春花秋月何时了，往事知多少？<br>
+
+![2.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/2.1.jpeg)
+
+小楼昨夜又东风，故国不堪回首月明中。
+
+![2.3](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/2.3.jpeg)
+
+雕栏玉砌应犹在，只是朱颜改。<br>
+
+![3.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/3.1.jpeg)
+
+问君能有几多愁？恰似一江春水向东流
+
+![3.4](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/3.4.jpeg)
+
 ## [歌](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E6%AD%8C)
 
 十里桃花，待嫁的年华<br>
