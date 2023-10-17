@@ -7,7 +7,7 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 桃李春风一杯酒，江湖夜雨十年灯。
 
-![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/1.1.jpeg)
+![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/1.1.jpeg?raw=true)
 
 白日依山尽，黄河入海流
 
