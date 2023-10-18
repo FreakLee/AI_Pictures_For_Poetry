@@ -38,6 +38,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![8.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/8.1.jpeg)
 
+苍苍竹林寺，杳杳钟声晚。<br>
+荷笠带斜阳，青山独归远。
+
+![9.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/9.1.jpeg)
+
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
 小窗前，疏影下。鸾镜弄妆初罢。<br>
