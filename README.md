@@ -33,7 +33,6 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![7.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/7.1.jpeg)
 
-    王维《鸟鸣涧》
 人闲桂花落，夜静春山空。<br>
 月出惊山鸟，时鸣春涧中。
 
