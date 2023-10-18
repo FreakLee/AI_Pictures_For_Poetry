@@ -43,6 +43,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![9.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/9.1.jpeg)
 
+花谢花飞花满天，红消香断有谁怜？<br>
+游丝软系飘春榭，落絮轻沾扑绣帘。
+
+![10.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/10.1.jpeg)
+
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
 小窗前，疏影下。鸾镜弄妆初罢。<br>
