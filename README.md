@@ -40,6 +40,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/1.1.jpeg)
 
+暮江寒，人响绝。更着朦胧微月。<br>
+山似玉，玉如君。相看一笑温。
+
+![1.5](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/1.5.jpeg)
+
 春花秋月何时了，往事知多少？<br>
 
 ![2.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%8D/2.1.jpeg)
