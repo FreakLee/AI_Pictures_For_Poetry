@@ -3,8 +3,8 @@
 用 Bing Image Creator、Leonardo.AI、Midjourney、Stable Diffusion等 AI 工具为优美的诗、词、歌、赋、曲生成的配图集<br>
 AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
-**说明**：一般生成了1-4涨图片，此处只展示了其中一张，剩余的在具体目录中，它们序号相近，诸如1.1、1.2、1.3、1.4就是一组图。<br>
-**Explanation * *: Generally, 1-4 images are generated, but only one of them is shown here. The remaining images are in the specific directory, with similar numbers, such as 1.1, 1.2, 1.3, and 1.4, which are a set of images.
+***说明***：一般生成了1-4涨图片，此处只展示了其中一张，剩余的在具体目录中，它们序号相近，诸如1.1、1.2、1.3、1.4就是一组图。<br>
+***Explanation***: Generally, 1-4 images are generated, but only one of them is shown here. The remaining images are in the specific directory, with similar numbers, such as 1.1, 1.2, 1.3, and 1.4, which are a set of images.
 
 
 ## [诗](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%97)
