@@ -48,6 +48,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![10.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/10.1.jpeg)
 
+空山新雨后，天气晚来秋。<br>
+明月松间照，清泉石上流。
+
+![11.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/11.1.jpeg)
+
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
 小窗前，疏影下。鸾镜弄妆初罢。<br>
