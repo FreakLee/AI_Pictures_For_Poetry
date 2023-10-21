@@ -62,6 +62,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![11.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/11.1.jpeg)
 
+日照香炉生紫烟，遥看瀑布挂前川。<br>
+飞流直下三千尺，疑是银河落九天。
+
+![13.4](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.4.jpeg)
+
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
 小窗前，疏影下。鸾镜弄妆初罢。<br>
