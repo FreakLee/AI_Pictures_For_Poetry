@@ -12,6 +12,8 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ## [诗](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%97)
 
+[***整诗***](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/Poetry.md)
+
 桃李春风一杯酒，江湖夜雨十年灯。
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/1.1.jpeg?raw=true)
