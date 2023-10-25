@@ -104,6 +104,48 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![1.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/1.1.jpeg)
 
+山外山，天外天<br>
+追风逐月一瞬间<br>
+
+![2.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/2.1.jpeg)
+
+
+日月定金光莲<br>
+鸟儿叫声祥和慈云现<br>
+
+![3.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/3.1.jpeg)
+
+一路雨水一路花又开<br>
+雨后笑对花谢被掩埋<br>
+
+![4.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/4.1.jpeg)
+
+
+一路朝拜一路的山脉<br>
+咦呀咦耶<br>
+我是彩色艳阳的尘埃<br>
+
+![5.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/5.1.jpeg)
+
+注：此处“一路朝拜”是敏感词句，不能写入prompt，当时把这句跟“咦呀咦耶”去掉了<br>
+
+
+撑船人点著他的灯笼<br>
+江面竹排被映红<br>
+
+![6.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/6.1.jpeg)
+
+
+吹笛人吹著他的幽梦<br>
+一声闻来万事离心中<br>
+
+![7.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/7.1.jpeg)
+
+一色一物一夜已成空
+一花一梦种菩提的种
+
+![8.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/8.1.jpeg)
+
 ## [赋](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%B5%8B)
 
 夫风生于地，起于青苹之末，侵淫溪谷<br>
