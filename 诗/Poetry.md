@@ -11,3 +11,9 @@
 飞流直下三千尺，疑是银河落九天。<br>
 
 ![13.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.1.jpeg)
+
+3、饮湖上初晴后雨——苏轼<br>
+水光潋滟晴方好，山色空蒙雨亦奇。<br>
+欲把西湖比西子，淡妆浓抹总相宜。<br>
+
+![14.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/14.1.jpeg)
