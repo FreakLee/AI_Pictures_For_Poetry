@@ -67,9 +67,10 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![13.4](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.4.jpeg)
 
-落霞与孤鹜齐飞，秋水共长天一色
+落霞与孤鹜齐飞<br>
+秋水共长天一色
 
-![15.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/15.1.jpeg)
+![15.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.4.jpeg)
 
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
@@ -149,6 +150,11 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 一花一梦种菩提的种<br>
 
 ![8.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/8.1.jpeg)
+
+风吹来 赏落红 渐浓<br> 
+月光下 放海灯 如童<br>
+
+![10.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/10.1.jpeg)
 
 风又吹 羽叶花 牵藤<br>
 半月光 点燃了 书灯<br>
