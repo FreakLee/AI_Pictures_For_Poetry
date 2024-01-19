@@ -67,10 +67,9 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![13.4](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.4.jpeg)
 
-落霞与孤鹜齐飞<br>
-秋水共长天一色
+落霞与孤鹜齐飞，秋水共长天一色
 
-![15.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/13.4.jpeg)
+![15.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E8%AF%97/15.1.jpeg)
 
 ## [词](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%AF%8D)
 
