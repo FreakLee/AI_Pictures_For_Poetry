@@ -146,10 +146,18 @@ AI generates illustrations for beautiful poetry, lyrics, songs, music, etc
 
 ![7.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/7.1.jpeg)
 
-一色一物一夜已成空
-一花一梦种菩提的种
+一色一物一夜已成空<br>
+一花一梦种菩提的种<br>
 
 ![8.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/8.1.jpeg)
+
+风又吹 羽叶花 牵藤<br>
+半月光 点燃了 书灯<br>
+曲栏外 回荡着 竹声<br>
+谁能绕过这微微的冷<br>
+
+![9.1](https://github.com/FreakLee/AI_Pictures_For_Poetry/blob/main/%E6%AD%8C/9.1.jpeg)
+
 
 ## [赋](https://github.com/FreakLee/AI_Pictures_For_Poetry/tree/main/%E8%B5%8B)
 
